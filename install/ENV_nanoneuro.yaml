@@ -1,0 +1,12 @@
+name: nanoneuro
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - octave
+  - pip:
+    - oct2py
+    - spikeinterface[full,widgets]
+    - MEArec
+      
