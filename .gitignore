@@ -1,6 +1,3 @@
-**/data/*.txt
-**/data/*.info
-**/data/*.spk
-**/data/*.raw
-**/data/*.csv
-
+axion_matlab_files/*.pdf
+axion_matlab_files/*.rtf
+*.asv
