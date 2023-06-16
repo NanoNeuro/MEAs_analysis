@@ -5,6 +5,7 @@ channels:
   - defaults
 dependencies:
   - octave
+  - numba
   - pip:
     - oct2py
     - spikeinterface[full,widgets]
