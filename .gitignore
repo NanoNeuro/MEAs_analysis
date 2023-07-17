@@ -1,3 +1,10 @@
 axion_matlab_files/*.pdf
 axion_matlab_files/*.rtf
 *.asv
+*.json
+*.npy
+*.npz
+*.dat
+*.tsv
+*.btr
+*.txt.gz
