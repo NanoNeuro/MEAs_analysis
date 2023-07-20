@@ -8,3 +8,4 @@ axion_matlab_files/*.rtf
 *.tsv
 *.btr
 *.txt.gz
+data/*
